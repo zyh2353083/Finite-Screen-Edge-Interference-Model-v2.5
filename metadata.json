@@ -1,0 +1,5 @@
+{
+  "name": "Microwave Diffraction Simulation System",
+  "description": "A high-fidelity numerical simulation tool for microwave single-slit diffraction based on Kirchhoff diffraction theory, featuring edge-wave interference effects and real-time visualization.",
+  "requestFramePermissions": []
+}
